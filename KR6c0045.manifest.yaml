@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0045/v1
 canonical_location: https://kanripo.org/bkk/KR6c0045/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛經註
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0045_000.yaml, hash: 'sha256:1ee9e9f3d6ae3b19b9b16b12ec5075fc687a861512353db1877c36e488a529ad'}
-  - {seq: 1, filename: KR6c0045_001.yaml, hash: 'sha256:304fe3ec5aea649bb636d6df25b4a7b3d3b8616c94ba2b9b73a197b1d8796ea7'}
+  - {seq: 0, filename: KR6c0045_000.yaml, hash: 'sha256:9e9314b5d703b79c0778403cda3d8db05c079e6748e40c73806f6f8709d10866'}
+  - {seq: 1, filename: KR6c0045_001.yaml, hash: 'sha256:fdba8361b2341659772746cc0e4b16e80bb784e7173d8049d3e719735efba34a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0045_000.markers.yaml, hash: 'sha256:9c6e40dcb6741b64588271c1a1ee8802225efcd0420d8b7941a90aabe37ff0e4'}
-  - {seq: 1, role: markers, filename: assets/KR6c0045_001.markers.yaml, hash: 'sha256:421ef255b4467563b7457c1072b7212c3726cbaed9899592bdd6950f9cc56012'}
+  - {seq: 0, role: markers, filename: assets/KR6c0045_000.markers.yaml, hash: 'sha256:7f4498fa120efc0dcf160bdab1fe4de4185ada655bbbee7458d2265a3dcd5d74'}
+  - {seq: 1, role: markers, filename: assets/KR6c0045_001.markers.yaml, hash: 'sha256:15e5f6c848e1fa9699207df55c302417dc1e315e6fd34a65997e9c4ba33fd331'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,4 +57,7 @@ table_of_contents:
   label: 金剛般若波羅蜜經注
   type: juan
   level: 1
-hash: sha256:873fb6e773751aadc6c31f7053ee032ee01131ebb6c336e91e378f399f098349
+hash: sha256:c7af07c49aca2ddd13866583d6ced1fa212085a7b8ff5c42a2704648cfc6a1d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
