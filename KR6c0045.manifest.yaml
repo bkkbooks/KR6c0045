@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0045_000.yaml, hash: 'sha256:9e9314b5d703b79c0778403cda3d8db05c079e6748e40c73806f6f8709d10866'}
+  - {seq: 0, filename: KR6c0045_000.yaml, hash: 'sha256:e4d7aef5bc7002f548e2592de45de6ba1e35e3d5a08a2c1e784e3d40b082b1dd'}
   - {seq: 1, filename: KR6c0045_001.yaml, hash: 'sha256:fdba8361b2341659772746cc0e4b16e80bb784e7173d8049d3e719735efba34a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0045_000.markers.yaml, hash: 'sha256:7f4498fa120efc0dcf160bdab1fe4de4185ada655bbbee7458d2265a3dcd5d74'}
+  - {seq: 0, role: markers, filename: assets/KR6c0045_000.markers.yaml, hash: 'sha256:bab9092cefb56d7c4618c76bf097d1ad5ac807811d6f267e23b6aa9d087f6756'}
   - {seq: 1, role: markers, filename: assets/KR6c0045_001.markers.yaml, hash: 'sha256:15e5f6c848e1fa9699207df55c302417dc1e315e6fd34a65997e9c4ba33fd331'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0045_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 454-A 注金剛經序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0045_X_000-mulu-2
     span:
-    - front
+    - body
     - 393
     - 393
   label: 金剛般若波羅蜜經注
@@ -57,7 +57,7 @@ table_of_contents:
   label: 金剛般若波羅蜜經注
   type: juan
   level: 1
-hash: sha256:c7af07c49aca2ddd13866583d6ced1fa212085a7b8ff5c42a2704648cfc6a1d7
+hash: sha256:efa7472bacfe596a709090bae7c38a27e0188d8fcafe7d8e1391b367861ea13b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
